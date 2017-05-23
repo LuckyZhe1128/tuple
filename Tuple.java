@@ -2,7 +2,7 @@
 import java.util.Optional;
 
 /**
- * Tuple元组类1
+ * Tuple元组类
  *
  * @since: 12/4/15.
  * @author: http://yjmyzz.cnblogs.com/
